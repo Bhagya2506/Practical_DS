@@ -1,8 +1,9 @@
 Netflix Data Analysis
 Contacts:
 
-Name and email address (only for private repos)
-Status: Not started / in progress / complete
+Bhagyashree Mulay 
+bm01608n@pace.edu
+Status:complete
 
 Project desciption:
 
