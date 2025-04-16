@@ -1,5 +1,5 @@
-Netflix Data Analysis
-Contacts:
+**Netflix Data Analysis**
+
 
 Bhagyashree Mulay 
 bm01608n@pace.edu
